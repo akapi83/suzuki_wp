@@ -1,0 +1,11 @@
+body {
+  background-color: aquamarine;
+}
+
+.arrow-box {
+  color: #000;
+}
+
+.archive .arrow-box {
+  color: #ff0000;
+}
